@@ -1,3 +1,7 @@
+name = prompt('Your Name: ');
+alert('Welcome' + name);
+
+
 (() => {
     //img for the slider
         const images_list = [
